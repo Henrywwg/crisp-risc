@@ -1,0 +1,10 @@
+# Ignore all non sv, v or c/h files 
+*
+
+# Reinclude these 
+!*.v
+!*.sv
+!*.c
+!*.h
+!*/
+!.gitignore
